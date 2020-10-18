@@ -13,8 +13,8 @@
 
 //-----------------------------------------------------------------------------
 ///
-/// The main program.,
-/// Prints my student-IDPP
+/// The main program
+/// Prints my student-ID
 ///
 /// @return always zero
 //
